@@ -1,0 +1,22 @@
+{
+  "name": "strike/di",
+  "description": "Strike Di - Yet Another Dependency Injection Library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Leo",
+      "email": "leo.on.the.earth@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {
+  },
+  "require-dev": {
+    "phpunit/phpunit": "4.2.6"
+  },
+  "autoload": {
+    "psr-4": {
+      "Strike\\Di\\": "src/"
+    }
+  }
+}
