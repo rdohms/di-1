@@ -4,14 +4,9 @@
 
 Install with composer
 
-```json
-{
-    "require": {
-        "strike/di": "dev-master"
-    }
-}
+```sh
+composer require strike/di
 ```
-
 
 ## Tests
 
